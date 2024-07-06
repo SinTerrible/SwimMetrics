@@ -1,2 +1,2 @@
 # Swimming-Journal
-for Swimming
+for all Swims - times and splits
