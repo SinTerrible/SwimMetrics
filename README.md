@@ -1,3 +1,3 @@
 # SwimMetrics
 for all Swims - times and splits
-by SinTerrible
+<p>by SinTerrible</p>
